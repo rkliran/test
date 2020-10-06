@@ -1,0 +1,23 @@
+2020-07-26 11:08:45,725 INFO logger.py:49 你好
+2020-07-26 11:14:26,075 INFO logger.py:49 你好
+2020-07-26 11:14:26,076 INFO logger.py:50 sdkljflskdjf
+2020-07-26 12:18:03,035 INFO logger.py:49 你好
+2020-07-26 12:18:03,035 INFO logger.py:50 sdkljflskdjf
+2020-07-26 20:38:36,251 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:38:36,251 INFO request.py:60 Request Method: POST
+2020-07-26 20:38:36,252 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
+2020-07-26 20:40:48,120 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:40:48,120 INFO request.py:60 Request Method: POST
+2020-07-26 20:40:48,121 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
+2020-07-26 20:41:23,740 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:41:23,741 INFO request.py:60 Request Method: POST
+2020-07-26 20:41:23,741 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
+2020-07-26 20:41:47,802 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:41:47,803 INFO request.py:60 Request Method: POST
+2020-07-26 20:41:47,803 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
+2020-07-26 20:47:52,125 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:47:52,126 INFO request.py:60 Request Method: POST
+2020-07-26 20:47:52,126 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
+2020-07-26 20:48:13,423 INFO request.py:59 Request Url: https://www.zhixue.com/weakPwdLogin/?from=web_login
+2020-07-26 20:48:13,423 INFO request.py:60 Request Method: POST
+2020-07-26 20:48:13,424 INFO request.py:68 Request Data: {'data': {'loginName': 18291900215, 'password': 'dd636482aca022', 'code': None, 'description': 'encrypt'}}
